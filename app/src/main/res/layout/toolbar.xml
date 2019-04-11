@@ -28,7 +28,7 @@
                 android:layout_weight="1"
                 android:gravity="center"
                 android:letterSpacing="-0.02"
-                android:text="No Databinding"
+                android:text="Using Databinding"
                 android:textColor="#FFF"
                 android:textSize="20sp"
                 app:layout_constraintBottom_toBottomOf="parent"
